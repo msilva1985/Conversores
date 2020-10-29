@@ -9,7 +9,7 @@ Primero se debe ejecutar el generador de ejemplos de prueba:
 
 ./generador.sh  (esto generara un archivo llamado "archivo.csv") 
 
-Luego para convertirlo a CSV se debe ejecutar 
+Luego para convertirlo a JSON se debe ejecutar 
 
 ./script.sh archivo.csv > archivo.json
 
